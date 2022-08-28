@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Ap0st0l-dhev/Ap0st0l-dhev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ap0stle/Ap0stle-dhev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
